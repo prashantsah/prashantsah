@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.<br>
-    🌱 I am currently learning **Java** and also interested in **Web Development**.<br>
-    🎯 My Goal is to Contribute to as many **open source project** as possible.<br>
-    ✨ I love to create different types of **contents**.<br>
+    🎓 I am currently pursuing my <B>Bachelor's in Computer Science Engineering</B>.<br>
+    🌱 I am currently learning <B>Java</B> and also interested in <B>Web Development</B>.<br>
+    🎯 My Goal is to Contribute to as many <B>open source project</B> as possible.<br>
+    ✨ I love to create different types of <B>contents</B>.<br>
     </td >
 
 </tr>
