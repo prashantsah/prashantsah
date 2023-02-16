@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 <tr>
   <td valign="center">
     🎓 I am currently pursuing my <B>Bachelor's in Computer Science Engineering</B>.<br>
+    <BR>
     🌱 I am currently learning <B>Java</B> and also interested in <B>Web Development</B>.<br>
+    <BR>
     🎯 My Goal is to Contribute to as many <B>open source project</B> as possible.<br>
+      <BR>
     ✨ I love to create different types of <B>contents</B>.<br>
+        <BR>
     </td >
 
 </tr>
