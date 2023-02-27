@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <BR>
     🎯 My Goal is to Contribute to as many <B>open source project</B> as possible.<br>
       <BR>
-    ✨ I love to create different types of <B>contents</B>.<br>
+    ✨ I love to create different types of <B>contents</B><br>
         <BR>
     </td >
 
