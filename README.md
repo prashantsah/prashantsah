@@ -1,4 +1,4 @@
-# Hey, I'm Prashant  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Prashant  <img src="https://camo.githubusercontent.com/e1000ab8b19bfa53bb783de70925d854bb1e0142f9f8242de4aab94bf53d64ef/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30302f34622f31372f30303462313733663665336436383433646631303131346530383766333061382e676966.gif">
 
 <!--
 **prashantsah/prashantsah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,6 @@ Here are some ideas to get you started:
     🌱 I’m learning Art of life with some species of technology<br>
     👯 I’m looking to collaborate on Real time items exchange in AR<br>
     🤔 I’m looking for help with Data structures and Competitive Programming<br>
-    💬 Ask me about: Anything out of the box.<br>
     😄 Pronouns: NORMIE<br>
     </td >
 
