@@ -25,8 +25,6 @@ Here are some ideas to get you started:
     🤔 I’m looking for help with Data structures and Competitive Programming<br>
     💬 Ask me about: Anything out of the box.<br>
     😄 Pronouns: NORMIE<br>
-    
-        <BR>
     </td >
 
 </tr>
