@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my <B>Bachelor's in Computer Science Engineering</B>.<br>
-    <BR>
+    🎓 I am currently pursuing  <B>Bachelor's  in Computer Science Engineering</B>.<br>
     🌱 I am currently learning <B>Java</B> and also interested in <B>Web Development</B>.<br>
-    <BR>
     🎯 My Goal is to Contribute to as many <B>open source project</B> as possible.<br>
-      <BR>
-    ✨ 
+    🌱 I’m learning Art of life with some species of technology<br>
+    👯 I’m looking to collaborate on Real time items exchange in AR<br>
+    🤔 I’m looking for help with Data structures and Competitive Programming<br>
+    💬 Ask me about: Anything out of the box.<br>
+    😄 Pronouns: NORMIE<br>
+    
         <BR>
     </td >
 
