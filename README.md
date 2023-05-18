@@ -11,7 +11,7 @@
 - 🎓 &nbsp; Studying Computer Science and Engineering.
 - 🌱 &nbsp; I am currently learning Full Stack Development 
 - 👨‍💻 &nbsp; I am currently open for intern roles.
-- ✍️ &nbsp; I love to code and provide totally different solutions on different problems. 
+<!-- ✍️ &nbsp; I love to code and provide totally different solutions on different problems. -->
 - 👻 &nbsp; Ask me Anything!, I'm happy to help ✌️ 
 - 🌱 I’m learning Art of life with some species of technology<br>
 - 😅 &nbsp; I love Riding and Travelling  🧑‍✈️
