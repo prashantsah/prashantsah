@@ -8,7 +8,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science and Engineering.
+- 🎓 &nbsp; Studying Computer Science and Engineering
 - 🌱 &nbsp; I am currently learning Full Stack Development.
 - 👨‍💻 &nbsp; I am currently open for FT roles.
 <!-- ✍️ &nbsp; I love to code and provide totally different solutions on different problems. -->
