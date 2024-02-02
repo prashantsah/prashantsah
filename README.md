@@ -53,7 +53,7 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsah&&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="prashantsah" />
  <img width="48%" src="https://github-readme-stats.vercel.app/api?
   username=prashantsah&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="prashantsah" /> 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=prashantsah&theme=tokyonight&hide_border=false)<br/>
+  [](https://github-readme-streak-stats.herokuapp.com/?user=prashantsah&theme=tokyonight&hide_border=false)<br/>
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsah&theme=highcontrast&hide_border=true" alt="prashantsah" />
  </p>
 
