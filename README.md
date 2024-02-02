@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" height="400px" width="800px" />
 </p>
+<p align="center'>
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</p>
 
 
 <h2> 👋 Hey there! I'm Prashant. <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h2>
