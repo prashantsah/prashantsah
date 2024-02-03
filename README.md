@@ -77,3 +77,13 @@
 </p>
 </p> 
 -->
+<p align="center"> 
+  Visitor Count<br>
+<img src="https://profile-counter.glitch.me/prashantsah/count.svg" />
+</p>
+
+<p align="center">
+<img align="" height='120px' src="https://github.com/prashantsah/prashantsah/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/prashantsah/prashantsah/blob/main/assets/Geometric%20White.gif" />
+</p>
+
+![](https://activity-graph.herokuapp.com/graph?username=prashantsah&theme=react-dark&area=true)
