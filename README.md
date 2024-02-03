@@ -1,3 +1,9 @@
+<h3 align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+</h3>
+
+
 ### Hi there 👋
 <p align="center">
   <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" height="400px" width="800px" />
@@ -132,3 +138,5 @@
 </p>
 
 ![](https://activity-graph.herokuapp.com/graph?username=prashantsah&theme=react-dark&area=true)
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
