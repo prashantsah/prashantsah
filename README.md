@@ -60,8 +60,8 @@
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsah&theme=highcontrast&hide_border=true" alt="prashantsah" />
  </p> 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <br/>
 <!--
