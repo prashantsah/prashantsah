@@ -21,6 +21,7 @@
 - 👻 &nbsp; Ask me Anything!, I'm happy to help ✌️ 
 - 🌱 I’m learning Art of life with some species of technology<br>
 - 😅 &nbsp; I love Riding and Travelling  🧑‍✈️
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : 𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
