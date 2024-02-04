@@ -63,18 +63,47 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsah&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
--->
 
-
-  
  <img  src="https://github-readme-stats.vercel.app/api?username=prashantsah&&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="prashantsah" /> 
 <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsah&&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="prashantsah" />
 <!--<img width="48%" src="https://github-readme-stats.vercel.app/api?
   username=prashantsah&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="prashantsah" /> 
    [](https://github-readme-streak-stats.herokuapp.com/?user=prashantsah&theme=tokyonight&hide_border=false)<br/> -->
-   <p>
+ <!--  <p>
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsah&theme=highcontrast&hide_border=true" alt="prashantsah" />
  </p> 
+ </p> -->
+
+
+
+  
+  
+  <table><tr><td valign="top" width="50%">
+  
+  
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prashantsah&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</td><td valign="top" width="50%">
+
+
+
+
+
+
+
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+
+
+
+[![Prashant Sah's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantsah&show_icons=true&theme=radical)](https://github.com/abhishekaryangiri)
+
+</td></tr></table>  
+
+<br/>
+
+
+ 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=prashantsah&theme=react-dark&hide_border=true&area=true)
 
