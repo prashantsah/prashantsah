@@ -12,16 +12,34 @@
 
 
 <h2> 👋 Hey there! I'm Prashant. <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h2>
+ 
+ <!--
+## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
+
+<a href="https://twitter.com/Env4"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@En4"></a>
+<a href="https://www.linkedin.com/in/veni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:v@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://dev.to/env"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="env"></a> 
+<a href="https://discordapp.com/users/66555022"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="En_#1852" ></a> -->
+
+
+
+
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp;  Computer Science Engineer.
-- 🌱 &nbsp; I am currently learning Full Stack Development.
+- 🎓 &nbsp; Computer Science Engineer.
 - 👨‍💻 &nbsp; I am currently open for FT roles.
-- 👻 &nbsp; Ask me Anything!, I'm happy to help ✌️ 
-- 🌱 I’m learning Art of life with some species of technology<br>
+- 👻 &nbsp; Ask me Anything!, I'm happy to help ✌️
 - 😅 &nbsp; I love Riding and Travelling  🧑‍✈️
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : 𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜.
+-    &nbsp; I am currently learning Full Stack Development.
+- 🌱 &nbsp; I’m learning Art of life with some species of technology<br> 
+- ⚡ &nbsp; Fun fact: Best Part Of The Journey Is : It Ends. 
+  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -57,22 +75,7 @@
 
 <h1 align="left"> 📊 &nbsp;Git Stats</h1>
 
-<!--
-<p align="center">
-  <img height="150" width="150" src="WEBP/left.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsah&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="WEBP/right.webp"/>
-</p>
 
- <img  src="https://github-readme-stats.vercel.app/api?username=prashantsah&&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="prashantsah" /> 
-<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsah&&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="prashantsah" />
-<!--<img width="48%" src="https://github-readme-stats.vercel.app/api?
-  username=prashantsah&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="prashantsah" /> 
-   [](https://github-readme-streak-stats.herokuapp.com/?user=prashantsah&theme=tokyonight&hide_border=false)<br/> -->
- <!--  <p>
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsah&theme=highcontrast&hide_border=true" alt="prashantsah" />
- </p> 
- </p> -->
 
 
 
@@ -121,7 +124,7 @@
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
 @@   \ |  ,  | /    '----------------------------'     @@
 @@    \|=====|/                                        @@
 @@     |_.^._|                                         @@
@@ -143,22 +146,7 @@
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   
-<!--### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
-<br/>
-<!--
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
- <a href="https://astream26.ga/"><img alt="Website" src="https://img.shields.io/badge/Website-https://astream26.ga-blue?style=flat-square&logo=google-chrome"></a>
- 
-<a href="http://portfolio37.herokuapp.com/"><img alt="Website" src="https://img.shields.io/badge/Website-http://portfolio37.herokuapp.com/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ashutosh-pandey-a258b6195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Pandey-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ap.darknight/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ap.darknight-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:pandeyashutosh150799@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pandeyashutosh150799@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-</p> 
 -->
 <p align="center"> 
   Visitor Count<br>
