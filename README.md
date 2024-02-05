@@ -35,7 +35,6 @@
 - 👨‍💻 &nbsp; I am currently open for FT roles.
 - 👻 &nbsp; Ask me Anything!, I'm happy to help ✌️
 - 😅 &nbsp; I love Riding and Travelling  🧑‍✈️
--    &nbsp; I am currently learning Full Stack Development.
 - 🌱 &nbsp; I’m learning Art of life with some species of technology<br> 
 - ⚡ &nbsp; Fun fact: Best Part Of The Journey Is : It Ends. 
   
