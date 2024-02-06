@@ -3,12 +3,18 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 </h3>
 
+<!--
 <p align="center">
   <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" height="400px" width="800px" />
 </p>
 <p
  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-</p>
+</p> -->
+
+<h1 align="center" style="width:100;%">
+ <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" />
+</h1>
+
 
 
 <h2> 👋 Hey there! I'm Prashant. <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h2>
