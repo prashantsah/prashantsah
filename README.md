@@ -16,8 +16,16 @@
 </h1>
 
 
+<!--
+<h2> 👋 Hey there! I'm Prashant. <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h2>  -->
+<div align="center"> 
+  <h2>
+  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
 
-<h2> 👋 Hey there! I'm Prashant. <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+👋+Hey!+Its+Prashant!;I'm+a+Software+Developer;)](https://git.io/typing-svg)
+
+</h2>
+</div>
  
 <!-- 
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
